@@ -6,3 +6,4 @@ This is a pile of scripts that I use for this strategy.  Here is the list of scr
 [TOS_Trend_Indicator](http://tos.mx/3VcwV4A)  
 [Avg_Trade_Range_Label](http://tos.mx/cZuMrVK)  
 [SuperEMA](http://tos.mx/Yk58X5x)  
+[PivotRSI](http://tos.mx/)
