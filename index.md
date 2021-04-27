@@ -31,7 +31,7 @@ This strategy gives you indicators to buy long or sell short based off the 3 EMA
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [ThinkorSwim Platform](https://tdameritrade.com/tools-and-platforms.page/) installed.
+Before starting :checkered_flag:, you need to have [ThinkorSwim Platform](https://tdameritrade.com/tools-and-platforms.page) installed.
 
 ## :runner: Starting ##
 
