@@ -18,7 +18,7 @@ This strategy uses these different scripts I have written.
 [TOS_Trend_Indicator](http://tos.mx/3VcwV4A)  
 [Avg_Trade_Range_Label](http://tos.mx/cZuMrVK)  
 [SuperEMA](http://tos.mx/Yk58X5x)  
-[PivotRSI](http://tos.mx/)  
+[PivotRSI](http://tos.mx/vyB3CWp)  
 Once you have them downloaded and added to your chart studies you can start using them with this strategy.  
 
 This strategy gives you indicators to buy long or sell short based off the 3 EMA and the Pivot RSI.  How to use this strategy will be explained below.
@@ -40,7 +40,7 @@ You will need to download:
 - [TOS_Trend_Indicator](http://tos.mx/3VcwV4A/)  
 - [Avg_Trade_Range_Label](http://tos.mx/cZuMrVK)  
 - [SuperEMA](http://tos.mx/Yk58X5x)  
-- [PivotRSI](http://tos.mx/)
+- [PivotRSI](http://tos.mx/vyB3CWp)
 
 ## :chart_with_upwards_trend: Usage ##  
 
