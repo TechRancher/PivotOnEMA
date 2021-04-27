@@ -8,21 +8,21 @@
 
 <h1 align="center">PivotOnEMA</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8">
+<!-- <p align="center"> -->
+  <!-- <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8"> -->
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8">
+  <!-- <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8"> -->
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8">
+  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8"> -->
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8">
+  <!-- <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8"> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8" /> -->
 
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/pivotonema?color=56BEB8" /> -->
-</p>
+<!-- </p> -->
 
 <!-- Status -->
 
@@ -39,7 +39,7 @@
   <a href="#runner">Starting</a> &#xa0; | &#xa0;
   <a href="#chart_with_upwards_trend">How It works</a> &#xa0; | &#xa0;  
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/TechRancher" target="_blank">Author</a>
 </p>
 
 <br>
@@ -97,7 +97,7 @@ Just like a buy signal, when the candlesticks touch any of the EMA and then pivo
 This project is under license from GNU GENERAL PUBLIC LICENSE v.3. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/TechRancher" target="_blank">J Sikes</a>
 
 &#xa0;
 
