@@ -36,8 +36,8 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#runner">Starting</a> &#xa0; | &#xa0;
-  <a href="#chart_with_upwards_trend">How It works</a> &#xa0; | &#xa0;  
+  <a href="#runner-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#chart_with_upwards_trend-usage">Usage</a> &#xa0; | &#xa0;  
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/TechRancher" target="_blank">Author</a>
 </p>
@@ -52,7 +52,7 @@ This strategy uses these different scripts I have written.
 [TOS_Trend_Indicator](http://tos.mx/3VcwV4A)  
 [Avg_Trade_Range_Label](http://tos.mx/cZuMrVK)  
 [SuperEMA](http://tos.mx/Yk58X5x)  
-[PivotRSI](http://tos.mx/)  
+[PivotRSI](http://tos.mx/vyB3CWp)  
 Once you have them downloaded and added to your chart studies you can start using them with this strategy.  
 
 This strategy gives you indicators to buy long or sell short based off the 3 EMA and the Pivot RSI.  How to use this strategy will be explained below.
@@ -74,9 +74,9 @@ You will need to download:
 - [TOS_Trend_Indicator](http://tos.mx/3VcwV4A/)  
 - [Avg_Trade_Range_Label](http://tos.mx/cZuMrVK)  
 - [SuperEMA](http://tos.mx/Yk58X5x)  
-- [PivotRSI](http://tos.mx/)
+- [PivotRSI](http://tos.mx/vyB3CWp)
 
-## :chart_with_upwards_trend: How It Works ##  
+## :chart_with_upwards_trend: Usage ##  
 
 Once you have all the different studies installed in ThinkorSwim and active in your chart. You can then begin using this strategy.  The image below shows all the studies that should be active on your chart.  
 ![Pivot_On_EMA](images/Pivot_On_EMA.jpg)  
